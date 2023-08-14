@@ -2,7 +2,7 @@ import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
 class DataTest {
-
+    // All tests have passed. - William Yoder
     @Test
     void testConvertToMegabytes() {
         Data data1 = new Data(1024, "bytes", 100);
