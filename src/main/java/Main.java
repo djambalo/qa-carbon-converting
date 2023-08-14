@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+// Well commented, no errors or warnings, project runs well. - William Yoder
 public class Main {
     public static void main(String[] args) {
         //Build a scanner

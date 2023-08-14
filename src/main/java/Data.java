@@ -1,3 +1,4 @@
+// Code is easy to read and effective at the job. - William Yoder
 public class Data {
 //    Instance variables amount, unit, and downloadSpeed
     private double amount ;
